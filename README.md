@@ -2,4 +2,4 @@
 UI Challenge from Codewell of the Chirp Landing Page
 
 See the Project here:
-shorturl.at/tINSV
+http://www.shorturl.at/tINSV
